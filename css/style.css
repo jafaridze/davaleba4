@@ -1,0 +1,203 @@
+/*bases clases*/
+.inline-block{
+	display: inline-block;
+}
+.container{
+	margin-left: 30px;
+	margin-top: 30PX;
+}
+/*bases clases*/
+/*header section*/
+.logo{
+	vertical-align: middle;
+
+}
+.navigacion-li{
+	margin-left: 25px;
+}
+.banner{
+	margin-top: 60px; 
+	margin-left: 98px;
+	width: 90%
+	margin-left: 5%;
+	max-width: 80%
+}
+
+img{
+	width: 100%;
+
+}
+.active-a{
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 22px;
+}
+.active{
+	color: #EE4036;
+}
+a:hover { 
+	color: red;
+	font-size: 25px;
+}
+.navigacion{
+	vertical-align: middle;
+}
+/*header section*/  
+/*inl-block section*/
+.section-box{
+	margin-left: 30px;
+	margin-top: 43px
+}
+.box {
+	background-color: #3D58A6;
+
+
+}
+.box .date{
+	font-size: 40px;
+	color: #FFFFFF;
+}
+ .month{
+	color: #3D58A6;
+}
+.title{
+	margin-top: 15px;
+	font-family: 'BPG Nino Mtavruli ';
+	font-size: 20px;
+}
+.image{
+	margin-top: 5px;
+	width: 150px;
+}
+.section{
+	margin-left: 40px;
+}
+
+.text{
+	margin-left: 15px;
+	font-size: 13px;
+	text-align: justify;
+	font-family: "BPG Ingiri Arial", sans-serif;
+}
+.article-text{
+	width: 75%;
+}
+.article-image{
+	vertical-align: top;
+}
+.text-a{
+	margin-top: 15px;
+}
+.box-zome{
+	margin-top: 50px;
+}
+.footer{
+	margin-top: 67px;
+	margin-left: 33px;
+}
+/*inl-block section*/
+/*body section*/
+h3, h2{
+	font-family: 'RobotoRegular';
+}
+
+.section{
+	margin-top:  100px;
+	margin-left: 98px;
+}
+.section a{
+	font-family: 'RobotoRegular';
+}
+.article{
+	background-color: #F2F2F2;
+	width: 40%;
+	font-size: 13px;
+	display: inline-block;
+	padding: 13px;
+	
+}
+.first{
+	margin-right: 1%;
+	width: 42%;
+}
+
+
+.article img{
+	width: 19%;
+	height: 78px;
+	
+}
+.article p{
+	width: 67%;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 10%;
+	font-family: 'RobotoRegular';
+
+}
+.article h2{
+	padding-bottom: 22px;
+	color: #3D58A6;
+}
+.articles{
+	margin-top: 32px;
+}
+/*body section*/
+/*informacion section*/
+.contact{
+	font-family: 'BPG Nino Mtavruli Bold';
+	color: #3D58A6;
+	font-size: 20px;
+}
+.color-text{
+	color: #808080;
+}
+.informacion p{
+	font-size: 16px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+	color: #000000;
+}
+.content{
+	background-color: #E6E6E6;
+	margin-top: 33px;
+}
+.ruka-img{
+	width: 874px;
+}
+.informacion{
+	margin-left: 95px;
+    margin-top: 112px;
+    vertical-align: top;
+}
+.social-class{
+	margin-top: 32px;
+}
+
+/*informacion section*/
+/*footer section*/
+.divider{
+	height: 25px;
+	width: 2px;
+	background-color: #3D58A6;
+
+}
+.social-icon{
+	height: 30px;
+
+}
+.social-icons{
+	margin-top: 31px;
+	margin-left: 46px; 
+}
+.social-fb{
+	margin-right: 16px;
+}
+.social-youtub{
+	margin-left: 16px;
+}
+.footer-ul{
+	margin-top: 60px;
+	margin-left: 98px;
+}
+/*footer section*/
+
